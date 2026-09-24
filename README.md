@@ -64,7 +64,7 @@ The program consists of 5 domain classes and 4 standalone functions:
 
 ### Running the Program
 ```bash
-git clone [https://github.com/USERNAME/REPOSITORY.git](https://github.com/USERNAME/REPOSITORY.git)
+git clone [https://github.com/yaashwaanth/Smart-Fitness-Session-Analyzer.git]
 **Actual way to run the code:** python3 main.py
 
 **Alternative way to run the code,if above command does not run:** python main.py
