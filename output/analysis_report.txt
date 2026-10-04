@@ -1,0 +1,38 @@
+FITNESS SESSION ANALYSIS REPORT
+==================================================
+
+Session ID  : FIT-2026-001
+Participant : P001
+Result      : RESTING
+Explanation : Average activity (0.09) and HR (68.8 bpm) remain close to personal baseline levels.
+--------------------------------------------------
+Session ID  : FIT-2026-002
+Participant : P002
+Result      : MODERATE ACTIVITY
+Explanation : Average activity (0.49) and HR elevation (+28.0 bpm) indicate moderate physical effort.
+--------------------------------------------------
+Session ID  : FIT-2026-003
+Participant : P003
+Result      : HIGH ACTIVITY
+Explanation : Average activity (0.75) and HR elevation (+69.5 bpm) reflect intense physical exertion.
+--------------------------------------------------
+Session ID  : FIT-2026-004
+Participant : P001
+Result      : HIGH ACTIVITY
+Explanation : Average activity (0.55) and HR elevation (+45.2 bpm) reflect intense physical exertion.
+--------------------------------------------------
+Session ID  : FIT-2026-005
+Participant : P002
+Result      : INSUFFICIENT DATA
+Explanation : Only 0 of 5 observations were valid (0.0%). Minimum requirement: 4 valid windows and ≥50% signal quality.
+--------------------------------------------------
+Session ID  : FIT-2026-101
+Participant : P001
+Result      : INSUFFICIENT DATA
+Explanation : Only 1 of 4 observations were valid (25.0%). Minimum requirement: 4 valid windows and ≥50% signal quality.
+--------------------------------------------------
+Session ID  : FIT-2026-102
+Participant : P002
+Result      : INSUFFICIENT DATA
+Explanation : Only 0 of 3 observations were valid (0.0%). Minimum requirement: 4 valid windows and ≥50% signal quality.
+--------------------------------------------------

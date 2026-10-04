@@ -1,0 +1,9 @@
+REJECTED RECORDS LOG
+============================================================
+File: fitness_sessions_invalid.csv | Row: 3    | Field: Type Conversion | Reason: Failed conversion: could not convert string to float: 'fast'
+File: fitness_sessions_invalid.csv | Row: 4    | Field: Type Conversion | Reason: Failed conversion: Participant ID '001' not found in profiles.
+File: fitness_sessions_invalid.csv | Row: 5    | Field: Type Conversion | Reason: Failed conversion: could not convert string to float: ''
+File: fitness_sessions_invalid.csv | Row: 7    | Field: Type Conversion | Reason: Failed conversion: Invalid Session ID format: FIT-26-102
+File: fitness_sessions_invalid.csv | Row: 8    | Field: Type Conversion | Reason: Failed conversion: Participant ID 'P999' not found in profiles.
+File: fitness_sessions_invalid.csv | Row: 9    | Field: Type Conversion | Reason: Failed conversion: invalid literal for int() with base 10: 'two'
+File: fitness_sessions_invalid.csv | Row: 12   | Field: Type Conversion | Reason: Failed conversion: float() argument must be a string or a number, not 'NoneType'
